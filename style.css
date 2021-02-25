@@ -15,11 +15,13 @@ body {
 }
 
 .page-title {
-  color: white;
+  color: antiquewhite;
   font-family: 'Limelight', cursive;
   font-weight: normal;
   text-align: center;
-  font-size: 6em;
+  font-size: 7em;
+  letter-spacing:10px;
+  text-shadow: 4px 5px 0px #542a2a;
 }
 
 .game-info-container {
@@ -147,7 +149,7 @@ img.spider {
 }
 
 .card-front {
-  background-color: #FFBB89;
+  background-color: #944d4b;
   border-color: #333;
   transform: rotateY(180deg);
 }
